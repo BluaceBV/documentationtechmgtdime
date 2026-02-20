@@ -155,7 +155,7 @@ On the filter values (action Related -> Values) it's possible to assign the colo
 
 ![Image](../images/dime-scheduler-setup/itemcategory-3.png)
 
-![Image](../images/dime-scheduler-setup/itemcategory-5.png)
+![Image](../images/dime-scheduler-setup/itemcategory-4.png)
 
 Clicking on the value Color opens a color picker, that enables you enter or select an html color code.
 
@@ -202,7 +202,7 @@ Record 5:
 ### Doc. Filter Value Sources
 In Technical Management (Dime.Scheduler) the Doc. Filter Value Sources are used to be able to filter resources for a task based on resource group and skills. 
 
- ![Image](../images/dime-scheduler-setup/docfiltervaluessources-1.png)
+ ![Image](../images/dime-scheduler-setup/docfiltervaluesources-1.png)
 
 In the following situation, the Doc. Filter Value Sources for tables 156 (Resource), 1001 (Job Task) and 1003 (Job Planning Line) already existed, based on the data created by the FastTrack Setup
 
@@ -216,7 +216,7 @@ Add the following record:
 * Task Key Field No.: 4
 * Task Key Field Name: Resource Group No.
 
- ![Image](../images/dime-scheduler-setup/docfiltervaluessources-2.png)
+ ![Image](../images/dime-scheduler-setup/docfiltervaluesources-2.png)
 
 In the following steps we will furter set up the doc. filter value sources for the tables 156 (Resource) and 72803636 (Sales Plan. Line CBLC).
 
@@ -292,7 +292,7 @@ Link To Field No.: 1
 Link To Field Name: Type
 Value: Resource
 
-![Image](../images/dime-scheduler-setup/resource-7.png)
+![Image](../images/dime-scheduler-setup/resource-8.png)
 
 #### Sales Plan. Line CBLC
 On the Doc. Filter Value Sources, select the record for table 72803636 and use the action to go to the related tables.
