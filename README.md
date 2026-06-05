@@ -15,9 +15,9 @@ Adds graphical planning capabilities based on Dime.Scheduler to Technical Manage
 * [Fast track wizard](topics/dime-scheduler-setup.md#fast-track-wizard)
 * [General Setup](topics/dime-scheduler-setup.md#general-setup)
 * [Source Types](topics/dime-scheduler-setup.md#source-types)
-* [Filter Groups/Filter Values](topics/dime-scheduler-setup.md#filter-groups-filter-values)
+* [Filter Groups and Filter Values](topics/dime-scheduler-setup.md#filter-groups-and-filter-values)
 * [Assign Planner Role](topics/dime-scheduler-setup.md#assign-planner-role)
-* [Schedule Synchronzation with the Job Queue](topics/dime-scheduler-setup.md#schedule-synchronization-with-the-job-queue)
+* [Schedule Synchronization with the Job Queue](topics/dime-scheduler-setup.md#schedule-synchronization-with-the-job-queue)
 * [Localization](topics/dime-scheduler-setup.md#localization)
 
 ### [Technical Management Setup](topics/technical-management-setup.md)
