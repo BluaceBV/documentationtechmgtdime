@@ -79,7 +79,7 @@ To be able to process planning requests from Dime.Scheduler related to Sales Pla
 * Processing Codeunit No.: 72804089
 * Processing Codeunit Name: DS Handle Sales Plan. DPZS
 
-### Filter Groups/Filter Values
+### Filter Groups and Filter Values
 In Dime.Scheduler, appointments can be marked with different colors based on Filter Groups. The color of the complete appointment can set up with a FilterGroup with Type=Category. The color of the horizontal marker in the appointment can be set up by using a FilterGroup with Type=TimeMarker.
 
 Another use for Filter Groups is using them in Doc. Filter Value Sources, and add extra information to the values that are already sent to Dime.Scheduler. 
@@ -396,7 +396,7 @@ Add the following detail records for table 72803581 (Skill Line)
 
 ![Image](../images/dime-scheduler-setup/salesplanline-8.png)
 
-### Schedule Synchronzation with the Job Queue
+### Schedule Synchronization with the Job Queue
 Job Queue Entries in Business Central can be used to schedule recurring actions.
 
 ![Image](../images/dime-scheduler-setup/jobqueue-1.png)
