@@ -425,7 +425,7 @@ The following custom fields are used:
 | DATABASEFIELD  | FreeDate1            | Task           | Time Window Starting Time | H:i      |
 | DATABASEFIELD  | FreeDate2            | Task           | Time Window Ending Time   | H:i      |
 | DATABASEFIELD  | FreeDate3            | Task           | Min. Starting Date Time   |          |
-| DATABASEFIELD  | FreeDate3            | Task           | Max. Starting Date Time   |          |
+| DATABASEFIELD  | FreeDate4            | Task           | Max. Starting Date Time   |          |
 | DATABASEFIELD  | FreeBit1             | Task           | Blocked for Planning      |          |
 | DATABASEFIELD  | FreeBit2             | Task           | Enabled for Time Sheets   |          |
 
